@@ -1,0 +1,8 @@
+{
+  "appId": "com.bayti.hesabaty",
+  "appName": "بيتي وحساباتي",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
